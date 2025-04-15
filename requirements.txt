@@ -1,0 +1,6 @@
+cryptography~=44.0.2
+pyhanko
+pip~=24.0
+pillow~=10.3.0
+setuptools~=65.5.0
+pycparser~=2.22
