@@ -1,6 +1,19 @@
-cryptography~=44.0.2
-pyhanko
-pip~=24.0
-pillow~=10.3.0
-setuptools~=65.5.0
-pycparser~=2.22
+cryptography>=41.0.0
+pyOpenSSL>=23.0.0
+pycryptodome>=3.18.0
+
+PyPDF2>=3.0.0
+pdfrw>=0.4.0
+
+PyQt5>=5.15.0
+
+pyudev>=0.24.0; sys_platform == 'linux'
+#pywin32>=306; sys_platform == 'win32'
+#pyobjc>=9.0; sys_platform == 'darwin'
+
+pytest>=7.0.0
+pytest-qt>=4.2.0
+
+doxypy>=0.4.1
+
+pyinstaller>=6.11.0

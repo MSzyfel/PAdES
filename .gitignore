@@ -172,3 +172,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+.idea/
+.venv/
+.DS_Store
+
+build/build/
+build/dist/
